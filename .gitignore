@@ -11,3 +11,6 @@ build
 .classpath
 .project
 /app/.project
+/app/.classpath
+/app/bin
+/.gradle/
